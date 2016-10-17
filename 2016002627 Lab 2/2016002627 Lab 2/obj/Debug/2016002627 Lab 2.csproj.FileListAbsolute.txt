@@ -1,0 +1,9 @@
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\bin\Debug\2016002627 Lab 2.exe.config
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\obj\Debug\2016002627 Lab 2.csprojResolveAssemblyReference.cache
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\obj\Debug\_2016002627_Lab_2.Form1.resources
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\obj\Debug\_2016002627_Lab_2.Properties.Resources.resources
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\obj\Debug\2016002627 Lab 2.csproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\bin\Debug\2016002627 Lab 2.exe
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\bin\Debug\2016002627 Lab 2.pdb
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\obj\Debug\2016002627 Lab 2.exe
+C:\Users\Troll\Desktop\Coding from the players Guide\2016002627 Lab 2\2016002627 Lab 2\obj\Debug\2016002627 Lab 2.pdb
